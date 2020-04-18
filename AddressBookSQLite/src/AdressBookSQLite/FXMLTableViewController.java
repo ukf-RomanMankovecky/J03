@@ -22,10 +22,6 @@ public class FXMLTableViewController  {
         populateTableView();
     }
 
-    //TODO: Add remove person functionality - https://www.sqlitetutorial.net/sqlite-delete/
-    //TODO: Add update person functionality - https://www.sqlitetutorial.net/sqlite-update/
-
-
     @FXML protected void addPerson(ActionEvent event) {
         ObservableList<Person> data = tableView.getItems();
 
@@ -37,6 +33,16 @@ public class FXMLTableViewController  {
         emailField.setText("");
     }
 
+    @FXML protected void removePerson(){
+        ObservableList<Person> data = tableView.getItems();
+        data.remove(tableView.getSelectionModel().getSelectedItem());
+    }
+
+    @FXML protected void updatePerson(){
+        ObservableList<Person> data = tableView.getItems();
+        data.remove(tableView.getSelectionModel().getSelectedItem());
+        data.add(new Person(firstNameField.getText(), lastNameField.getText(), emailField.getText()));
+    }
 
 
     @FXML protected void connectDatabase() {

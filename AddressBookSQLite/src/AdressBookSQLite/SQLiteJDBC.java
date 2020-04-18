@@ -39,9 +39,6 @@ public class SQLiteJDBC {
         return conn;
     }
 
-
-
-
     public void insertPerson(String lastName, String firstName, String email) {
         try {
             PreparedStatement preparedStatement;

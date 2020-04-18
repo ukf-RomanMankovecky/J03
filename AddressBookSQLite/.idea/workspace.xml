@@ -87,10 +87,12 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="OverrideImplement.combined" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="dynamic.classpath" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="14" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/AdressBookSQLite/sqlite-jdbc-3.30.1.jar!/" />
+    <property name="last_opened_file_path" value="D:/intelIJ/javafx-sdk-13.0.2/lib" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -125,10 +127,9 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="14" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="AdressBookSQLite.FXMLTableView" />
       <module name="AddressBookSQLite" />
-      <option name="VM_PARAMETERS" value="--module-path /opt/javafx-sdk-14/lib --add-modules javafx.controls,javafx.fxml" />
+      <option name="VM_PARAMETERS" value="--module-path D:\intelIJ\javafx-sdk-13.0.2\lib --add-modules javafx.controls,javafx.fxml" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="AdressBookSQLite.*" />
@@ -190,11 +191,12 @@
       <option name="presentableId" value="Default" />
       <updated>1359379246138</updated>
       <workItem from="1359379250712" duration="1302000" />
+      <workItem from="1587215474949" duration="1236000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1302000" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
@@ -205,9 +207,10 @@
       <screen x="72" y="27" width="3768" height="2133" />
     </state>
     <state x="2441" y="1148" width="848" height="684" key="#Project_Structure/72.27.3768.2133@72.27.3768.2133" timestamp="1584906748950" />
-    <state x="1478" y="1029" width="1704" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585908869286">
-      <screen x="72" y="27" width="3768" height="2133" />
+    <state x="710" y="243" width="869" height="555" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587215588439">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="710" y="243" width="869" height="555" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587215588439" />
     <state x="2297" y="994" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.3840.2130@0.30.3840.2130" timestamp="1584708521856" />
     <state x="1478" y="1029" width="1704" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.3768.2133@72.27.3768.2133" timestamp="1585908869286" />
     <state x="2333" y="1252" width="644" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585502779489">
@@ -218,6 +221,10 @@
       <screen x="72" y="27" width="3768" height="2133" />
     </state>
     <state x="1245" y="1391" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/72.27.3768.2133@72.27.3768.2133" timestamp="1585068807564" />
+    <state x="808" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1587215518378">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="808" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587215518378" />
     <state x="1085" y="1250" width="324" height="681" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1585907313513">
       <screen x="72" y="27" width="3768" height="2133" />
     </state>
@@ -226,32 +233,37 @@
       <screen x="72" y="27" width="3768" height="2133" />
     </state>
     <state x="1686" y="622" width="515" height="549" key="EnvironmentVariablesDialog/72.27.3768.2133@72.27.3768.2133" timestamp="1584913982426" />
-    <state x="2603" y="1396" width="735" height="520" key="FileChooserDialogImpl" timestamp="1585908104726">
-      <screen x="72" y="27" width="3768" height="2133" />
+    <state x="742" y="244" width="647" height="523" key="FileChooserDialogImpl" timestamp="1587215586422">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="742" y="244" width="647" height="523" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587215586422" />
     <state x="2531" y="1232" width="610" height="515" key="FileChooserDialogImpl/0.30.3840.2130@0.30.3840.2130" timestamp="1584707549378" />
     <state x="2603" y="1396" width="735" height="520" key="FileChooserDialogImpl/72.27.3768.2133@72.27.3768.2133" timestamp="1585908104726" />
-    <state width="1941" height="90" key="GridCell.Tab.0.bottom" timestamp="1585909923388">
-      <screen x="72" y="27" width="3768" height="2133" />
+    <state width="1877" height="227" key="GridCell.Tab.0.bottom" timestamp="1587216192223">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="227" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587216192223" />
     <state width="1942" height="357" key="GridCell.Tab.0.bottom/0.30.3840.2130@0.30.3840.2130" timestamp="1584713183055" />
     <state width="2252" height="241" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1585155241929" />
     <state width="1941" height="90" key="GridCell.Tab.0.bottom/72.27.3768.2133@72.27.3768.2133" timestamp="1585909923388" />
-    <state width="1941" height="90" key="GridCell.Tab.0.center" timestamp="1585909923387">
-      <screen x="72" y="27" width="3768" height="2133" />
+    <state width="1877" height="227" key="GridCell.Tab.0.center" timestamp="1587216192223">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="227" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587216192223" />
     <state width="1942" height="357" key="GridCell.Tab.0.center/0.30.3840.2130@0.30.3840.2130" timestamp="1584713183054" />
     <state width="2252" height="241" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1585155241928" />
     <state width="1941" height="90" key="GridCell.Tab.0.center/72.27.3768.2133@72.27.3768.2133" timestamp="1585909923387" />
-    <state width="1941" height="90" key="GridCell.Tab.0.left" timestamp="1585909923387">
-      <screen x="72" y="27" width="3768" height="2133" />
+    <state width="1877" height="227" key="GridCell.Tab.0.left" timestamp="1587216192223">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="227" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587216192223" />
     <state width="1942" height="357" key="GridCell.Tab.0.left/0.30.3840.2130@0.30.3840.2130" timestamp="1584713183054" />
     <state width="2252" height="241" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1585155241928" />
     <state width="1941" height="90" key="GridCell.Tab.0.left/72.27.3768.2133@72.27.3768.2133" timestamp="1585909923387" />
-    <state width="1941" height="90" key="GridCell.Tab.0.right" timestamp="1585909923387">
-      <screen x="72" y="27" width="3768" height="2133" />
+    <state width="1877" height="227" key="GridCell.Tab.0.right" timestamp="1587216192223">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="227" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587216192223" />
     <state width="1942" height="357" key="GridCell.Tab.0.right/0.30.3840.2130@0.30.3840.2130" timestamp="1584713183055" />
     <state width="2252" height="241" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1585155241928" />
     <state width="1941" height="90" key="GridCell.Tab.0.right/72.27.3768.2133@72.27.3768.2133" timestamp="1585909923387" />
